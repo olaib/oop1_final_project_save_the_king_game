@@ -1,0 +1,16 @@
+level message:
+-------------
+Level UP!!
+===================================================================
+End game message:
+-----------------
+YOU DID IT!
+
+Wow you have finished all the levels!
+
+You are truly one of the great heroes!
+
+The world cheers your name!
+Thank you and hope you enjoy the game
+
+THE END (:
